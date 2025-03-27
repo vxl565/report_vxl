@@ -27,7 +27,7 @@ týždenník:
   * vykresľovanie voxelového povrchu a načítanie textúr
   * dokončovanie prvej kapitoly prehľadu
 * t3 (03.03. - 09.03.)
-  * 3D mouse picking
+  * zlepšenie renderovania - instanced rendering
   * kapitola k openGL
 * t4 (10.03. - 16.03.)
   * 3D mouse picking - viacero techník
