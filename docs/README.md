@@ -35,6 +35,13 @@ týždenník:
 * t5 (17.03. - 23.03.)
   * 3D mouse picking zlepšovanie, zlepšenie ukladania modelu
   * kapitola k 3D mouse picking doplnenie
-* t6 (24.03. - 30.03.) - in progress
-  * Import/Export modelov/dodané generovanie modelov
+* t6 (24.03. - 30.03.)
+  * Import/Export modelov
   * kapitola k ukladaniu Voxelových dát a kapitola ku generovaniu
+* t7 (31.03. - 06.04.)
+  * Fix bugov, zlepšovanie vykresľovania
+  * kapitola ku konceptu kamery a transformáciám
+* t8 (07.04. - 13.04.) - prebieha
+  * Generovanie povrchov a code clean up
+  * dokončenie a revízia existujúcich kapitol
+
