@@ -41,7 +41,10 @@ týždenník:
 * t7 (31.03. - 06.04.)
   * Fix bugov, zlepšovanie vykresľovania
   * kapitola ku konceptu kamery a transformáciám
-* t8 (07.04. - 13.04.) - prebieha
+* t8 (07.04. - 13.04.)
   * Generovanie povrchov a code clean up
   * dokončenie a revízia existujúcich kapitol
+* t9 (14.04. - 20.04.) - prebieha
+  * Multiselect objektov
+  * kapitola generovanie
 
