@@ -44,7 +44,14 @@ týždenník:
 * t8 (07.04. - 13.04.)
   * Generovanie povrchov a code clean up
   * dokončenie a revízia existujúcich kapitol
-* t9 (14.04. - 20.04.) - prebieha
+* t9 (14.04. - 20.04.)
   * Multiselect objektov
   * kapitola generovanie
+* t10 (21.04. - 27.04.)
+  * UI
+  * review kapitol
+* t9 (28.04. - 04.05.) - prebieha
+  * Zlepsenie UX, doplnenie UI
+  * Vysledky/Diskusia
+
 
