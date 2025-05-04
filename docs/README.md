@@ -50,8 +50,10 @@ týždenník:
 * t10 (21.04. - 27.04.)
   * UI
   * review kapitol
-* t9 (28.04. - 04.05.) - prebieha
+* t9 (28.04. - 04.05.)
   * Zlepsenie UX, doplnenie UI
   * Vysledky/Diskusia
-
+* t10 (05.05. - 11.05.) - prebieha
+  * code clean-up, dokumentacia
+  * Vysledky/Diskusia
 
